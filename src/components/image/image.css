@@ -1,0 +1,20 @@
+#image {
+    margin: 10px;
+    padding: 10px;
+    max-width: 25%;
+}
+
+#image img {
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 100%;
+}
+
+#image-header {
+    position: relative;
+    top: 30px;
+    text-align: center;
+    width: 95%;
+    margin: 0 auto;
+    background: #db121288;
+}

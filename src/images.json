@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "name": "Alec Baldwin",
+        "img": "./media/alec-baldwin.jpg",
+        "clicked": false
+    },
+    {
+        "id": 1,
+        "name": "Eddie Murphy",
+        "img": "./media/eddie-murphy.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Jack Black",
+        "img": "./media/jack-black.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Jack Nicholson",
+        "img": "./media/jack-nicholson.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Jet Li",
+        "img": "./media/jet-li.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Keanu Reeves",
+        "img": "./media/keanu-reeves.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Nicholas Cage",
+        "img": "./media/nicholas-cage.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Samuel Jackson",
+        "img": "./media/samuel-jackson.jpeg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Tom Hanks",
+        "img": "./media/tom-hanks.jpg",
+        "clicked": false
+    }
+]
