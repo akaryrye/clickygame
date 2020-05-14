@@ -17,7 +17,7 @@ SSH:   `$ Git Clone git@github.com:akaryrye/clickygame.git`
 
 
 #### Technologies:
-HTML, CSS, Vanilla JS
+React JS, CSS
 
 
 #### Author:
